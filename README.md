@@ -15,4 +15,4 @@
 5. test.obj와 mymath.lib 파일이 링크되어 하나의 실행 파일로 생성된다.
 
 ![6](https://github.com/jhj1228/c_lib/assets/43434644/982e8b41-4bf0-48a7-957f-ef3ed0a37ed9)<br>
-6. 결과값이 55가 나오면 성공이다.
+6. 55가 나오면 성공이다.
